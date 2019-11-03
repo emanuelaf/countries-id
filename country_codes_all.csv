@@ -1,0 +1,250 @@
+code2,code3,code_number,name1,name2,name3,name4,name5,name6
+AF,AFG,004,Afghanistan,NA,NA,NA,NA,NA
+AX,ALA,248,Åland Islands,NA,NA,NA,NA,NA
+AL,ALB,008,Albania,NA,NA,NA,NA,NA
+DZ,DZA,012,Algeria,NA,NA,NA,NA,NA
+AS,ASM,016,American Samoa,NA,NA,NA,NA,NA
+AD,AND,020,Andorra,NA,NA,NA,NA,NA
+AO,AGO,024,Angola,NA,NA,NA,NA,NA
+AI,AIA,660,Anguilla,NA,NA,NA,NA,NA
+AQ,ATA,010,Antarctica,NA,NA,NA,NA,NA
+AG,ATG,028,Antigua and Barbuda,NA,NA,NA,NA,NA
+AR,ARG,032,Argentina,NA,NA,NA,NA,NA
+AM,ARM,051,Armenia,NA,NA,NA,NA,NA
+AW,ABW,533,Aruba,NA,NA,NA,NA,NA
+AU,AUS,036,Australia,NA,NA,NA,NA,NA
+AT,AUT,040,Austria,NA,NA,NA,NA,NA
+AZ,AZE,031,Azerbaijan,NA,NA,NA,NA,NA
+BS,BHS,044,Bahamas,The Bahamas,"Bahamas, The",NA,NA,NA
+BH,BHR,048,Bahrain,NA,NA,NA,NA,NA
+BD,BGD,050,Bangladesh,NA,NA,NA,NA,NA
+BB,BRB,052,Barbados,NA,NA,NA,NA,NA
+BY,BLR,112,Belarus,NA,NA,NA,NA,NA
+BE,BEL,056,Belgium,NA,NA,NA,NA,NA
+BZ,BLZ,084,Belize,NA,NA,NA,NA,NA
+BJ,BEN,204,Benin,NA,NA,NA,NA,NA
+BM,BMU,060,Bermuda,NA,NA,NA,NA,NA
+BT,BTN,064,Bhutan,NA,NA,NA,NA,NA
+BO,BOL,068,"Bolivia, Plurinational State of",Bolivia (Plurinational State of),Bolivia,NA,NA,NA
+BQ,BES,535,"Bonaire, Sint Eustatius and Saba",NA,NA,NA,NA,NA
+BA,BIH,070,Bosnia and Herzegovina,NA,NA,NA,NA,NA
+BW,BWA,072,Botswana,NA,NA,NA,NA,NA
+BV,BVT,074,Bouvet Island,NA,NA,NA,NA,NA
+BR,BRA,076,Brazil,NA,NA,NA,NA,NA
+IO,IOT,086,British Indian Ocean Territory,NA,NA,NA,NA,NA
+BN,BRN,096,Brunei Darussalam,Brunei,NA,NA,NA,NA
+BG,BGR,100,Bulgaria,NA,NA,NA,NA,NA
+BF,BFA,854,Burkina Faso,NA,NA,NA,NA,NA
+BI,BDI,108,Burundi,NA,NA,NA,NA,NA
+KH,KHM,116,Cambodia,NA,NA,NA,NA,NA
+CM,CMR,120,Cameroon,NA,NA,NA,NA,NA
+CA,CAN,124,Canada,NA,NA,NA,NA,NA
+CV,CPV,132,Cape Verde,Cabo Verde,NA,NA,NA,NA
+KY,CYM,136,Cayman Islands,NA,NA,NA,NA,NA
+CF,CAF,140,Central African Republic,NA,NA,NA,NA,NA
+TD,TCD,148,Chad,NA,NA,NA,NA,NA
+CL,CHL,152,Chile,NA,NA,NA,NA,NA
+CN,CHN,156,China,NA,NA,NA,NA,NA
+CX,CXR,162,Christmas Island,NA,NA,NA,NA,NA
+CC,CCK,166,Cocos (Keeling) Islands,NA,NA,NA,NA,NA
+CO,COL,170,Colombia,NA,NA,NA,NA,NA
+KM,COM,174,Comoros,NA,NA,NA,NA,NA
+CG,COG,178,Congo,"Congo, Rep.",NA,NA,NA,NA
+CD,COD,180,"Congo, the Democratic Republic of the",Congo (Democratic Republic of the),Dem.Rep. Congo,"Congo, Democratic Republic of the",Democratic Republic of the Congo,"Congo, Dem. Rep."
+CK,COK,184,Cook Islands,NA,NA,NA,NA,NA
+CR,CRI,188,Costa Rica,NA,NA,NA,NA,NA
+CI,CIV,384,Côte d'Ivoire,Cote d'Ivoire,NA,NA,NA,NA
+HR,HRV,191,Croatia,NA,NA,NA,NA,NA
+CU,CUB,192,Cuba,NA,NA,NA,NA,NA
+CW,CUW,531,Curaçao,Curacao,NA,NA,NA,NA
+CY,CYP,196,Cyprus,NA,NA,NA,NA,NA
+CZ,CZE,203,Czech Republic,Czechia,NA,NA,NA,NA
+DK,DNK,208,Denmark,NA,NA,NA,NA,NA
+DJ,DJI,262,Djibouti,NA,NA,NA,NA,NA
+DM,DMA,212,Dominica,NA,NA,NA,NA,NA
+DO,DOM,214,Dominican Republic,NA,NA,NA,NA,NA
+EC,ECU,218,Ecuador,NA,NA,NA,NA,NA
+EG,EGY,818,Egypt,"Egypt, Arab Rep.",NA,NA,NA,NA
+SV,SLV,222,El Salvador,NA,NA,NA,NA,NA
+GQ,GNQ,226,Equatorial Guinea,NA,NA,NA,NA,NA
+ER,ERI,232,Eritrea,NA,NA,NA,NA,NA
+EE,EST,233,Estonia,NA,NA,NA,NA,NA
+ET,ETH,231,Ethiopia,NA,NA,NA,NA,NA
+FK,FLK,238,Falkland Islands (Malvinas),NA,NA,NA,NA,NA
+FO,FRO,234,Faroe Islands,NA,NA,NA,NA,NA
+FJ,FJI,242,Fiji,NA,NA,NA,NA,NA
+FI,FIN,246,Finland,NA,NA,NA,NA,NA
+FR,FRA,250,France,NA,NA,NA,NA,NA
+GF,GUF,254,French Guiana,NA,NA,NA,NA,NA
+PF,PYF,258,French Polynesia,NA,NA,NA,NA,NA
+TF,ATF,260,French Southern Territories,NA,NA,NA,NA,NA
+GA,GAB,266,Gabon,NA,NA,NA,NA,NA
+GM,GMB,270,Gambia,The Gambia,"Gambia, The",NA,NA,NA
+GE,GEO,268,Georgia,NA,NA,NA,NA,NA
+DE,DEU,276,Germany,Germany (until 1990 former territory of the FRG),NA,NA,NA,NA
+GH,GHA,288,Ghana,NA,NA,NA,NA,NA
+GI,GIB,292,Gibraltar,NA,NA,NA,NA,NA
+GR,GRC,300,Greece,NA,NA,NA,NA,NA
+GL,GRL,304,Greenland,NA,NA,NA,NA,NA
+GD,GRD,308,Grenada,NA,NA,NA,NA,NA
+GP,GLP,312,Guadeloupe,NA,NA,NA,NA,NA
+GU,GUM,316,Guam,NA,NA,NA,NA,NA
+GT,GTM,320,Guatemala,NA,NA,NA,NA,NA
+GG,GGY,831,Guernsey,NA,NA,NA,NA,NA
+GN,GIN,324,Guinea,NA,NA,NA,NA,NA
+GW,GNB,624,Guinea-Bissau,NA,NA,NA,NA,NA
+GY,GUY,328,Guyana,NA,NA,NA,NA,NA
+HT,HTI,332,Haiti,NA,NA,NA,NA,NA
+HM,HMD,334,Heard Island and McDonald Islands,NA,NA,NA,NA,NA
+VA,VAT,336,Holy See (Vatican City State),Holy See,NA,NA,NA,NA
+HN,HND,340,Honduras,NA,NA,NA,NA,NA
+HK,HKG,344,Hong Kong,"Hong Kong, China (SAR)",NA,NA,NA,NA
+HU,HUN,348,Hungary,NA,NA,NA,NA,NA
+IS,ISL,352,Iceland,NA,NA,NA,NA,NA
+IN,IND,356,India,NA,NA,NA,NA,NA
+ID,IDN,360,Indonesia,NA,NA,NA,NA,NA
+IR,IRN,364,"Iran, Islamic Republic of",Iran (Islamic Republic of),Iran,"Iran, Islamic Rep.",NA,NA
+IQ,IRQ,368,Iraq,NA,NA,NA,NA,NA
+IE,IRL,372,Ireland,NA,NA,NA,NA,NA
+IM,IMN,833,Isle of Man,NA,NA,NA,NA,NA
+IL,ISR,376,Israel,NA,NA,NA,NA,NA
+IT,ITA,380,Italy,NA,NA,NA,NA,NA
+JM,JAM,388,Jamaica,NA,NA,NA,NA,NA
+JP,JPN,392,Japan,NA,NA,NA,NA,NA
+JE,JEY,832,Jersey,NA,NA,NA,NA,NA
+JO,JOR,400,Jordan,NA,NA,NA,NA,NA
+KZ,KAZ,398,Kazakhstan,NA,NA,NA,NA,NA
+KE,KEN,404,Kenya,NA,NA,NA,NA,NA
+KI,KIR,296,Kiribati,NA,NA,NA,NA,NA
+KP,PRK,408,"Korea, Democratic People's Republic of",Korea (Democratic People’s Rep. of),Korea (Democratic People’s Republic of),Democratic People's Republic of Korea,"Korea, Dem. People’s Rep.",NA
+KR,KOR,410,"Korea, Republic of",Korea (Republic of),Korea,NA,NA,NA
+KW,KWT,414,Kuwait,NA,NA,NA,NA,NA
+KG,KGZ,417,Kyrgyzstan,Kyrgyz Republic,NA,NA,NA,NA
+LA,LAO,418,Lao People's Democratic Republic,Lao PDR,Laos,NA,NA,NA
+LV,LVA,428,Latvia,NA,NA,NA,NA,NA
+LB,LBN,422,Lebanon,NA,NA,NA,NA,NA
+LS,LSO,426,Lesotho,NA,NA,NA,NA,NA
+LR,LBR,430,Liberia,NA,NA,NA,NA,NA
+LY,LBY,434,Libya,NA,NA,NA,NA,NA
+LI,LIE,438,Liechtenstein,NA,NA,NA,NA,NA
+LT,LTU,440,Lithuania,NA,NA,NA,NA,NA
+LU,LUX,442,Luxembourg,NA,NA,NA,NA,NA
+MO,MAC,446,Macao,Macao SAR,NA,NA,NA,NA
+MK,MKD,807,"Macedonia, the Former Yugoslav Republic of",The former Yugoslav Republic of Macedonia,North Macedonia,Former Yug. Rep. of Macedonia,NA,NA
+MG,MDG,450,Madagascar,NA,NA,NA,NA,NA
+MW,MWI,454,Malawi,NA,NA,NA,NA,NA
+MY,MYS,458,Malaysia,NA,NA,NA,NA,NA
+MV,MDV,462,Maldives,NA,NA,NA,NA,NA
+ML,MLI,466,Mali,NA,NA,NA,NA,NA
+MT,MLT,470,Malta,NA,NA,NA,NA,NA
+MH,MHL,584,Marshall Islands,NA,NA,NA,NA,NA
+MQ,MTQ,474,Martinique,NA,NA,NA,NA,NA
+MR,MRT,478,Mauritania,NA,NA,NA,NA,NA
+MU,MUS,480,Mauritius,NA,NA,NA,NA,NA
+YT,MYT,175,Mayotte,NA,NA,NA,NA,NA
+MX,MEX,484,Mexico,NA,NA,NA,NA,NA
+FM,FSM,583,"Micronesia, Federated States of",Micronesia (Federated States of),Micronesia,NA,NA,NA
+MD,MDA,498,"Moldova, Republic of",Moldova (Republic of),Moldova,NA,NA,NA
+MC,MCO,492,Monaco,NA,NA,NA,NA,NA
+MN,MNG,496,Mongolia,NA,NA,NA,NA,NA
+ME,MNE,499,Montenegro,NA,NA,NA,NA,NA
+MS,MSR,500,Montserrat,NA,NA,NA,NA,NA
+MA,MAR,504,Morocco,NA,NA,NA,NA,NA
+MZ,MOZ,508,Mozambique,NA,NA,NA,NA,NA
+MM,MMR,104,Myanmar,NA,NA,NA,NA,NA
+NA,NAM,516,Namibia,NA,NA,NA,NA,NA
+NR,NRU,520,Nauru,NA,NA,NA,NA,NA
+NP,NPL,524,Nepal,NA,NA,NA,NA,NA
+NL,NLD,528,Netherlands,NA,NA,NA,NA,NA
+NC,NCL,540,New Caledonia,NA,NA,NA,NA,NA
+NZ,NZL,554,New Zealand,NA,NA,NA,NA,NA
+NI,NIC,558,Nicaragua,NA,NA,NA,NA,NA
+NE,NER,562,Niger,NA,NA,NA,NA,NA
+NG,NGA,566,Nigeria,NA,NA,NA,NA,NA
+NU,NIU,570,Niue,NA,NA,NA,NA,NA
+NF,NFK,574,Norfolk Island,NA,NA,NA,NA,NA
+MP,MNP,580,Northern Mariana Islands,NA,NA,NA,NA,NA
+NO,NOR,578,Norway,NA,NA,NA,NA,NA
+OM,OMN,512,Oman,NA,NA,NA,NA,NA
+PK,PAK,586,Pakistan,NA,NA,NA,NA,NA
+PW,PLW,585,Palau,NA,NA,NA,NA,NA
+PS,PSE,275,"Palestine, State of",Palestinian administrative areas,West Bank and Gaza,NA,NA,NA
+PA,PAN,591,Panama,NA,NA,NA,NA,NA
+PG,PNG,598,Papua New Guinea,NA,NA,NA,NA,NA
+PY,PRY,600,Paraguay,NA,NA,NA,NA,NA
+PE,PER,604,Peru,NA,NA,NA,NA,NA
+PH,PHL,608,Philippines,NA,NA,NA,NA,NA
+PN,PCN,612,Pitcairn,NA,NA,NA,NA,NA
+PL,POL,616,Poland,NA,NA,NA,NA,NA
+PT,PRT,620,Portugal,NA,NA,NA,NA,NA
+PR,PRI,630,Puerto Rico,NA,NA,NA,NA,NA
+QA,QAT,634,Qatar,NA,NA,NA,NA,NA
+RE,REU,638,Réunion,NA,NA,NA,NA,NA
+RO,ROU,642,Romania,NA,NA,NA,NA,NA
+RU,RUS,643,Russian Federation,Russia,NA,NA,NA,NA
+RW,RWA,646,Rwanda,NA,NA,NA,NA,NA
+BL,BLM,652,Saint Barthélemy,NA,NA,NA,NA,NA
+SH,SHN,654,"Saint Helena, Ascension and Tristan da Cunha",NA,NA,NA,NA,NA
+KN,KNA,659,Saint Kitts and Nevis,St. Kitts and Nevis,NA,NA,NA,NA
+LC,LCA,662,Saint Lucia,St. Lucia,NA,NA,NA,NA
+MF,MAF,663,Saint Martin (French part),NA,NA,NA,NA,NA
+PM,SPM,666,Saint Pierre and Miquelon,NA,NA,NA,NA,NA
+VC,VCT,670,Saint Vincent and the Grenadines,St. Vincent and the Grenadines,NA,NA,NA,NA
+WS,WSM,882,Samoa,NA,NA,NA,NA,NA
+SM,SMR,674,San Marino,NA,NA,NA,NA,NA
+ST,STP,678,Sao Tome and Principe,NA,NA,NA,NA,NA
+SA,SAU,682,Saudi Arabia,NA,NA,NA,NA,NA
+SN,SEN,686,Senegal,NA,NA,NA,NA,NA
+RS,SRB,688,Serbia,NA,NA,NA,NA,NA
+SC,SYC,690,Seychelles,NA,NA,NA,NA,NA
+SL,SLE,694,Sierra Leone,NA,NA,NA,NA,NA
+SG,SGP,702,Singapore,NA,NA,NA,NA,NA
+SX,SXM,534,Sint Maarten (Dutch part),NA,NA,NA,NA,NA
+SK,SVK,703,Slovakia,Slovak Republic,NA,NA,NA,NA
+SI,SVN,705,Slovenia,NA,NA,NA,NA,NA
+SB,SLB,090,Solomon Islands,NA,NA,NA,NA,NA
+SO,SOM,706,Somalia,NA,NA,NA,NA,NA
+ZA,ZAF,710,South Africa,NA,NA,NA,NA,NA
+GS,SGS,239,South Georgia and the South Sandwich Islands,NA,NA,NA,NA,NA
+SS,SSD,728,South Sudan,NA,NA,NA,NA,NA
+ES,ESP,724,Spain,NA,NA,NA,NA,NA
+LK,LKA,144,Sri Lanka,NA,NA,NA,NA,NA
+SD,SDN,729,Sudan,NA,NA,NA,NA,NA
+SR,SUR,740,Suriname,NA,NA,NA,NA,NA
+SJ,SJM,744,Svalbard and Jan Mayen,NA,NA,NA,NA,NA
+SZ,SWZ,748,Swaziland,Eswatini (Kingdom of),Eswatini,NA,NA,NA
+SE,SWE,752,Sweden,NA,NA,NA,NA,NA
+CH,CHE,756,Switzerland,NA,NA,NA,NA,NA
+SY,SYR,760,Syrian Arab Republic,Syria,NA,NA,NA,NA
+TW,TWN,158,"Taiwan, Province of China",NA,NA,NA,NA,NA
+TJ,TJK,762,Tajikistan,NA,NA,NA,NA,NA
+TZ,TZA,834,"Tanzania, United Republic of",Tanzania (United Republic of),Tanzania,NA,NA,NA
+TH,THA,764,Thailand,NA,NA,NA,NA,NA
+TL,TLS,626,Timor-Leste,NA,NA,NA,NA,NA
+TG,TGO,768,Togo,NA,NA,NA,NA,NA
+TK,TKL,772,Tokelau,NA,NA,NA,NA,NA
+TO,TON,776,Tonga,NA,NA,NA,NA,NA
+TT,TTO,780,Trinidad and Tobago,NA,NA,NA,NA,NA
+TN,TUN,788,Tunisia,NA,NA,NA,NA,NA
+TR,TUR,792,Turkey,NA,NA,NA,NA,NA
+TM,TKM,795,Turkmenistan,NA,NA,NA,NA,NA
+TC,TCA,796,Turks and Caicos Islands,NA,NA,NA,NA,NA
+TV,TUV,798,Tuvalu,NA,NA,NA,NA,NA
+UG,UGA,800,Uganda,NA,NA,NA,NA,NA
+UA,UKR,804,Ukraine,NA,NA,NA,NA,NA
+AE,ARE,784,United Arab Emirates,NA,NA,NA,NA,NA
+GB,GBR,826,United Kingdom,United Kingdom of Great Britain and Northern Ireland,NA,NA,NA,NA
+US,USA,840,United States,United States of America,NA,NA,NA,NA
+UM,UMI,581,United States Minor Outlying Islands,NA,NA,NA,NA,NA
+UY,URY,858,Uruguay,NA,NA,NA,NA,NA
+UZ,UZB,860,Uzbekistan,NA,NA,NA,NA,NA
+VU,VUT,548,Vanuatu,NA,NA,NA,NA,NA
+VE,VEN,862,"Venezuela, Bolivarian Republic of",Venezuela (Bolivarian Republic of),Venezuela,"Venezuela, RB",NA,NA
+VN,VNM,704,Viet Nam,Vietnam,NA,NA,NA,NA
+VG,VGB,092,"Virgin Islands, British",Virgin Islands (British),NA,NA,NA,NA
+VI,VIR,850,"Virgin Islands, U.S.",Virgin Islands (U.S.),NA,NA,NA,NA
+WF,WLF,876,Wallis and Futuna,NA,NA,NA,NA,NA
+EH,ESH,732,Western Sahara,NA,NA,NA,NA,NA
+YE,YEM,887,Yemen,"Yemen, Rep.",NA,NA,NA,NA
+ZM,ZMB,894,Zambia,NA,NA,NA,NA,NA
+ZW,ZWE,716,Zimbabwe,NA,NA,NA,NA,NA
